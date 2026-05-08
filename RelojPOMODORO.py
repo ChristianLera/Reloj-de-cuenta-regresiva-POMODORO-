@@ -1,6 +1,6 @@
 """
 POMODORO TIMER - Professional Time Management Tool
-Author: Custom Development
+Author: Christian Lera
 Version: 2.1 (Corregido)
 Requires: Python 3.6+, tkinter, plyer
 """
